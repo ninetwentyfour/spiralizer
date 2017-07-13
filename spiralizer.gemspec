@@ -9,9 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Travis Berry"]
   spec.email         = ["contact@travisberry.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{Return a string of a spiral matrix}
+  spec.description   = %q{Return a string of a spiral matrix}
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
